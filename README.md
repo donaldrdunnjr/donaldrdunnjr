@@ -7,7 +7,7 @@ I'm a Senior Software Engineering Manager with 15+ years of experience leading h
 - DevOps enablement and CI/CD pipeline modernization  
 - Edge computing, automation, and AI-driven efficiency gains  
 - Engineering culture, team mentoring, and agile delivery  
-- Legacy replatforming and modernization  
+- Legacy replatforming and modernization 
 
 🚀 **Recent Highlights**
 - Delivered the first fully autonomous crane/lift system for a U.S. Class I railroad
