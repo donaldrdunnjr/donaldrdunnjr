@@ -3,7 +3,7 @@
 I'm a Senior Software Engineering Manager with 15+ years of experience leading high-impact engineering teams in cloud-native transformation, AI integration, and enterprise-scale modernization.
 
 🔧 **Technical Leadership Areas**  
-- Cloud-native architectures (AWS, microservices, serverless)  
+- Cloud-native architectures (OpenShift, microservices, serverless)  
 - DevOps enablement and CI/CD pipeline modernization  
 - Edge computing, automation, and AI-driven efficiency gains  
 - Engineering culture, team mentoring, and agile delivery  
@@ -12,7 +12,7 @@ I'm a Senior Software Engineering Manager with 15+ years of experience leading h
 🚀 **Recent Highlights**
 - Delivered the first fully autonomous crane/lift system for a U.S. Class I railroad
 - Led cloud migration of 75+ apps to AWS, improving scalability and resilience
-- Integrated AI and drone tech to automate container inspections — cutting $600K/year in costs
+- Integrated AI and patented (US 2025/0148415 A1)drone tech to automate container inspections — cutting $600K/year in costs
 - Built touchless gate systems, mobile workflows, and telemetry pipelines at scale
 
 📂 **Featured Repositories** *(coming soon)*
