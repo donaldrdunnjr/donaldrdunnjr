@@ -12,7 +12,7 @@ I'm a Senior Software Engineering Manager with 15+ years of experience leading h
 🚀 **Recent Highlights**
 - Delivered the first fully autonomous crane/lift system for a U.S. Class I railroad
 - Led cloud migration of 75+ apps to AWS, improving scalability and resilience
-- Integrated AI and patented (US 2025/0148415 A1)drone tech to automate container inspections — cutting $600K/year in costs
+- Integrated AI and patented (US-20250148415-A1) drone tech to automate container inspections — cutting $600K/year in costs
 - Built touchless gate systems, mobile workflows, and telemetry pipelines at scale
 
 📂 **Featured Repositories** *(coming soon)*
